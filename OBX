@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> OBX </title>
+    <style>
+    h1 {
+      color: #FF5E01;
+    }
+    h2 {
+      color: #006994;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>OUTER BANKS</h1>
+    <h2>main characters:</h2>
+    <ul>
+      <li> John B (Chase Stokes) </li>
+      <li> JJ (Rudy Pankow) </li>
+      <li> Pope (Jonathan Daviss) </li>
+      <li> Kiara (Madison Bailey) </li>
+      <li> Sarah (Madelyn Cline) </li>
+    </ul>
+    <h2>families:</h2>
+    <ul>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
+    </ul>
+  </body>
+</html>
